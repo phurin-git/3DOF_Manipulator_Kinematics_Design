@@ -1,0 +1,1 @@
+\left[\begin{matrix}- s{\left(\theta_{3} \right)} & 0 & c{\left(\theta_{3} \right)} & 0\\c{\left(\theta_{3} \right)} & 0 & s{\left(\theta_{3} \right)} & 0\\0 & 1 & 0 & 0\\0 & 0 & 0 & 1\end{matrix}\right]

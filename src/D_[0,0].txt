@@ -1,0 +1,1 @@
+I_{1} + I_{2} + I_{3} + I_{4} + l_{c2}^{2} m_{2} c^{2}{\left(\theta_{2} \right)} + m_{3} \left(l_{2} c{\left(\theta_{2} \right)} + l_{c3} c{\left(\theta_{2} + \theta_{3} \right)}\right)^{2} + m_{4} \left(l_{2} c{\left(\theta_{2} \right)} + l_{3} c{\left(\theta_{2} + \theta_{3} \right)} + l_{c4} c{\left(\theta_{2} + \theta_{3} \right)}\right)^{2}

@@ -1,0 +1,1 @@
+\left[\begin{matrix}s_{1} & 0 & - c_{1} & 0\\- c_{1} & 0 & - s_{1} & 0\\0 & 1 & 0 & d_{1}\\0 & 0 & 0 & 1\end{matrix}\right]

@@ -1,0 +1,1 @@
+I_{4} s_{23} + m_{4} \left(l_{2} c_{2} + \left(l_{3} + l_{c4}\right) c_{23}\right) \left(- a_{2} s_{3} + d_{1} c_{23} - l_{1} c_{23} + l_{2} s_{3}\right) c^{2}_{1} + m_{4} \left(l_{2} c_{2} + \left(l_{3} + l_{c4}\right) c_{23}\right) \left(- a_{2} s_{3} + d_{1} c_{23} - l_{1} c_{23} + l_{2} s_{3}\right) s^{2}_{1}

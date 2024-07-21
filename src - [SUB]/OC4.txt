@@ -1,0 +1,1 @@
+\left[\begin{matrix}1 & 0 & 0 & \left(l_{2} c_{2} + \left(l_{3} + l_{c4}\right) c_{23}\right) s_{1}\\0 & 1 & 0 & - \left(l_{2} c_{2} + \left(l_{3} + l_{c4}\right) c_{23}\right) c_{1}\\0 & 0 & 1 & l_{1} + l_{2} s_{2} + \left(l_{3} + l_{c4}\right) s_{23}\\0 & 0 & 0 & 1\end{matrix}\right]

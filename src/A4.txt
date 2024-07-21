@@ -1,0 +1,1 @@
+\left[\begin{matrix}c{\left(\theta_{4} \right)} & - s{\left(\theta_{4} \right)} & 0 & 0\\s{\left(\theta_{4} \right)} & c{\left(\theta_{4} \right)} & 0 & 0\\0 & 0 & 1 & d_{4}\\0 & 0 & 0 & 1\end{matrix}\right]

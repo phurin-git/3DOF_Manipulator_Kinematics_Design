@@ -1,0 +1,1 @@
+g l_{c2} m_{2} c_{2} + g m_{3} \left(l_{2} c_{2} + l_{c3} c_{23}\right) + g m_{4} \left(l_{2} c_{2} + \left(l_{3} + l_{c4}\right) c_{23}\right)

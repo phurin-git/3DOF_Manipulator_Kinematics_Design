@@ -1,0 +1,1 @@
+g l_{c2} m_{2} c{\left(\theta_{2} \right)} + g m_{3} \left(l_{2} c{\left(\theta_{2} \right)} + l_{c3} c{\left(\theta_{2} + \theta_{3} \right)}\right) + g m_{4} \left(l_{2} c{\left(\theta_{2} \right)} + \left(l_{3} + l_{c4}\right) c{\left(\theta_{2} + \theta_{3} \right)}\right)

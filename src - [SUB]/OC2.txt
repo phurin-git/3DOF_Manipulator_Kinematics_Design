@@ -1,0 +1,1 @@
+\left[\begin{matrix}1 & 0 & 0 & l_{c2} c_{2} s_{1}\\0 & 1 & 0 & - l_{c2} c_{1} c_{2}\\0 & 0 & 1 & l_{1} + l_{c2} s_{2}\\0 & 0 & 0 & 1\end{matrix}\right]
